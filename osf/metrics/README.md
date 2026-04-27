@@ -3,8 +3,7 @@
 `osf.metrics` allows storing anonymized usage data and defining periodic
 reports based on that data.
 
-the data model was built to be [COUNTER](https://cop5.projectcounter.org/en/5.0.2/)-compliant,
-but note that the COUNTER_SUSHI api has not yet been implemented atop.
+the data model was built to be [COUNTER](https://cop5.projectcounter.org/en/5.0.2/)-compliant.
 
 ## data model
 usage data and periodic reports are both stored in elasticsearch using
